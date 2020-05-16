@@ -19,7 +19,8 @@ Con esto tendremos completa la instalación de nuestra tarjeta ESP8266 y lista p
 
 # Instalación USB Driver ***(Si no reconoce el puerto COM)***
 
-En algunos casos 
+En algunos casos nuestra PC no es capaz de reconocer el dispositivo USB que nosotros conectamos, es por ello que dejaremos un archivo para la instalación del driver con ello
+nuestra PC debera ser capaz de renconcer el dispositivo conectado, en caso de que el problema persista asegurese de que su dispositivo no se este sobre calentando.
 
 [Descarga este driver para Windows][DRIVER_USB]
 
