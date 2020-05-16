@@ -18,4 +18,4 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 Con esto tendremos completa la instalación de nuestra tarjeta ESP8266 y lista para ser programada.	 
 
 # PinOut
-![](/Img/PINOUT_ESP8266.png)
+![](/img/PINOUT_ESP8266.png)
