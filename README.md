@@ -17,9 +17,9 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 
 Con esto tendremos completa la instalación de nuestra tarjeta ESP8266 y lista para ser programada.	 
 
-[Descarga este driver][nombre de tu referencia]
+[nombre que quieres darle a tu enlace][nombre de tu referencia]
 
-[USB_DRIVER]: https://drive.google.com/file/d/1yuZ91mJfR12bhASqD9ffsebzsEOJz8Om/view?usp=sharing
+[nombre de tu referencia]: https://drive.google.com/file/d/1yuZ91mJfR12bhASqD9ffsebzsEOJz8Om/view?usp=sharing
 
 # PinOut
 ![](/img/PINOUT_ESP8266.png)
