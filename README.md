@@ -17,6 +17,10 @@ Para la instalación en Arduino IDE debemos seguir los siguientes pasos:
 
 Con esto tendremos completa la instalación de nuestra tarjeta ESP8266 y lista para ser programada.	 
 
+# Instalación USB Driver ***(Si no reconoce el puerto COM)***
+
+En algunos casos 
+
 [Descarga este driver para Windows][DRIVER_USB]
 
 [DRIVER_USB]: https://drive.google.com/file/d/1yuZ91mJfR12bhASqD9ffsebzsEOJz8Om/view?usp=sharing
