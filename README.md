@@ -34,3 +34,7 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 
 # PinOut
 ![](/img/PINOUT_ESP8266.png)
+
+# TL05i 
+
+![](/img/TL05i.png)
