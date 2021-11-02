@@ -64,7 +64,7 @@ Descarga el código base en este link :
 Descarga el código base en este link : 
 [Código_Base_Button][BUTTON]
 
-[BUTTON]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-ejemplo-rl05i
+[BUTTON]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-test-button
 ![](/img/button.png)
 
 # LED Bi-Color 
@@ -72,7 +72,7 @@ Descarga el código base en este link :
 Descarga el código base en este link : 
 [Código_Base_LED][LED]
 
-[LED]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-ejemplo-rl05i
+[LED]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-test-LED
 ![](/img/led.png)
 
 
