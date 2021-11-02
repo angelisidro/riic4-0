@@ -38,3 +38,13 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 # TL05i 
 
 ![](/img/TL05i.png)
+
+# Neopixel 
+
+![](/img/neo.png)
+
+# Buzzer 
+
+![](/img/buzzer.png)
+
+
