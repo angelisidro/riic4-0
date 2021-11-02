@@ -40,7 +40,7 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 Descarga el código base en este link : 
 [Código_Base_TL05i][TL05i]
 
-[TL05i]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-ejemplo-rl05i
+[TL05i]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-ejemplo-tl05i
 ![](/img/TL05i.png)
 
 # Neopixel 
