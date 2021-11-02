@@ -37,14 +37,43 @@ Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en e
 
 # TL05i 
 
+Descarga el código base en este link : 
+[Código_Base_TL05i][TL05i]
+
+[TL05i]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-ejemplo-rl05i
 ![](/img/TL05i.png)
 
 # Neopixel 
 
+Descarga el código base en este link : 
+[Código_Base_NeoPixel][NeoPixel]
+
+[NeoPixel]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-test-neopixel
 ![](/img/neo.png)
 
 # Buzzer 
 
+Descarga el código base en este link : 
+[Código_Base_Buzzer][BUZZER]
+
+[BUZZER]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-test-buzzer
 ![](/img/buzzer.png)
+
+# Push Button 
+
+Descarga el código base en este link : 
+[Código_Base_Button][BUTTON]
+
+[BUTTON]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-ejemplo-rl05i
+![](/img/button.png)
+
+# LED Bi-Color 
+
+Descarga el código base en este link : 
+[Código_Base_LED][LED]
+
+[LED]: https://github.com/angelisidro/riic4-0/tree/master/codigo_base/riic4_0-ejemplo-rl05i
+![](/img/led.png)
+
 
 
