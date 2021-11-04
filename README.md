@@ -31,6 +31,12 @@ En algunos casos nuestra PC no es capaz de reconocer el dispositivo USB que noso
 
 Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en el Sistema Operativo Windows.
 
+Puede seguir está guía para la instalación como una segunda opción 
+
+[Sigue la guía para instalar el driver CH340][DRIVER_CH340]
+
+[DRIVER_CH340]: https://www.arduined.eu/ch340-windows-10-driver-download/
+
 # PinOut
 ![](/img/PINOUT_ESP8266.png)
 
