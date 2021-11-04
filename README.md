@@ -26,7 +26,7 @@ En algunos casos nuestra PC no es capaz de reconocer el dispositivo USB que noso
 2. Seleccionar el archivo para instalación de Windows
 	- SETUP.exe
 3. Seleccionar CH341SER.INF
-4. Click en la opción ***Install**
+4. Click en la opción ***Install***
 5. Cuando este instalado cerrar la ventana y listo.!
 
 Con esto estaría lista la instalación del Driver USB para nuestra tarjeta en el Sistema Operativo Windows.
